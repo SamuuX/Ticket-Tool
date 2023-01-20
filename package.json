@@ -4,7 +4,7 @@
   "description": "",
   "main": "bot.js",
   "dependencies": {
-    "delay": "^4.4.0",
+    "delay": "^4.4.1",
     "discord.js": "^12.5.0",
     "mongodb": "^3.6.3",
     "node-cmd": "^4.0.0"
